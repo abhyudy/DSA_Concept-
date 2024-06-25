@@ -1,2 +1,2 @@
-# Strack_Concept
-All about Web / App Concept
+# Dsa Concept Question
+
